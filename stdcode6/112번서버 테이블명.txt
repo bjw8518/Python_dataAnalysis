@@ -1,0 +1,4 @@
+부서->BUSEO_TEST
+사원-> SAWON_TEST
+근무지->KNMUJI_TEST
+직급->JIKGB_TEST
