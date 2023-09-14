@@ -1,7 +1,0 @@
-,0
-CUSTID,object
-AVGPRICE,float64
-EMI,int64
-DEVICECOUNT,int64
-PRODUCTAGE,float64
-CUSTTYPE,object
